@@ -154,7 +154,7 @@ websites or from the standard document itself.
 	The :class:`BradTeeNut` is a compound object that uses multiple :class:`CounterSunkScrew` to fix the
 	nut to the base object.  The size of these brads is stored in the :class:`nut_data` instance variable and
 	can be used to place the brads as shown in the
-	`brad_tee_and_heatset_nuts.py <https://github.com/gumyr/bd_warehouse/blob/main/examples/brad_tee_and_heatset_nuts.py>`_
+	`brad_tee_and_heatset_nuts.py <https://github.com/build123d/bd_warehouse/blob/main/examples/brad_tee_and_heatset_nuts.py>`_
 	example.
 
 ..

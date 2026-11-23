@@ -10,13 +10,13 @@ In Linux/MacOS, use the following command:
 
 .. doctest::
 
-	>>> python3 -m pip install git+https://github.com/gumyr/bd_warehouse
+	>>> python3 -m pip install git+https://github.com/build123d/bd_warehouse
 
 In Windows, use the following command:
 
 .. doctest::
 
-	>>> python -m pip install git+https://github.com/gumyr/bd_warehouse
+	>>> python -m pip install git+https://github.com/build123d/bd_warehouse
 
 If you receive errors about conflicting dependencies, you can retry the installation after having
 upgraded pip to the latest version with the following command:
@@ -36,7 +36,7 @@ way:
 
 .. doctest::
 
-	>>> poetry add git+https://github.com/gumyr/bd_warehouse.git@dev
+	>>> poetry add git+https://github.com/build123d/bd_warehouse.git@dev
 
 Please note that always suffixing the URL with ``@dev`` is safe and will work with both older and
 recent versions of poetry.
@@ -56,7 +56,7 @@ with the following commands:
 
 .. doctest::
 
-	>>> git clone https://github.com/gumyr/bd_warehouse.git
+	>>> git clone https://github.com/build123d/bd_warehouse.git
 	>>> cd bd_warehouse
 	>>> python3 -m pip install -e .
 

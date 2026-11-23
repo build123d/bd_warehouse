@@ -9,4 +9,4 @@ sphinx_copybutton
 sphinx-hoverxref
 sphinx_design
 -e git+https://github.com/gumyr/build123d.git#egg=build123d
--e git+https://github.com/gumyr/bd_warehouse.git#egg=bd_warehouse
+-e git+https://github.com/build123d/bd_warehouse.git#egg=bd_warehouse

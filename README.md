@@ -1,4 +1,4 @@
-![build123d, a parametric part collection](https://github.com/gumyr/bd_warehouse/raw/main/docs/assets/bd_title_image.png)
+![build123d, a parametric part collection](https://github.com/build123d/bd_warehouse/raw/main/docs/assets/bd_title_image.png)
 
 # bd_warehouse
 
@@ -7,7 +7,7 @@ build123d, a parametric part collection
 If you've ever wondered about finding a better alternative to proprietary
 software for mechanical CAD, consider exploring 
 [Build123d](https://build123d.readthedocs.io/en/latest/), along with related
-packages like [bd_warehouse](https://github.com/gumyr/bd_warehouse) and 
+packages like [bd_warehouse](https://github.com/build123d/bd_warehouse) and 
 [cq_gears](https://github.com/meadiode/cq_gears). Build123d enhances the widely 
 used Python programming language by adding powerful capabilities that enable the
 creation of various mechanical designs using the same techniques employed in today's technology.
@@ -42,12 +42,12 @@ pip install bd_warehouse
 
 To install the latest **bd_warehouse** non-released version from github:
 ```
-python3 -m pip install git+https://github.com/gumyr/bd_warehouse
+python3 -m pip install git+https://github.com/build123d/bd_warehouse
 ```
 
 Development install
 ```
-git clone https://github.com/gumyr/bd_warehouse.git
+git clone https://github.com/build123d/bd_warehouse.git
 cd bd_warehouse
 python3 -m pip install -e .
 ```
